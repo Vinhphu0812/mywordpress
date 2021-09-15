@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Khoa Học &#8211; Phú Blogs</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khoa-hoc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Wed, 15 Sep 2021 02:08:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://vinhphu0812.github.io/mywordpress/wp-content/uploads/2021/09/itc.jpg</url>
+	<title>Khoa Học &#8211; Phú Blogs</title>
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ngành Khoa Học Máy Tính: Học Gì Và Làm Gì?</title>
+		<link>https://vinhphu0812.github.io/mywordpress/101-2/</link>
+					<comments>https://vinhphu0812.github.io/mywordpress/101-2/#respond</comments>
+		
+		<dc:creator><![CDATA[truongvinhphu]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 01:01:50 +0000</pubDate>
+				<category><![CDATA[Khoa Học]]></category>
+		<guid isPermaLink="false">https://vinhphu0812.github.io/mywordpress/?p=101</guid>
+
+					<description><![CDATA[Thởi đại ngày nay những việc làm nặng nhọc, tính toán dần được thay thế bởi máy tính. Và vì thế nhu cầu nhân lực ngày càng chú trọng về các công nghệ này. Vì vậy việc học và hiểu biết về công nghệ này là một lợi thế với các bạn sinh viên. Và ngành Khoa học máy tính chính là nơi cung cấp cho bạn một con đường rõ ràng và những nền tảng quan trọng nhất để làm việc với công nghệ của tương lai. 
+
+Vậy nó là gì, học như thế nào và làm được gì? Tất cả sẽ được giải đáp trong bài viết này. &#8230; <p><span class="more-link"><a href="https://vinhphu0812.github.io/mywordpress/101-2/" class="readmore">Continue reading<span class="screen-reader-text">Ngành Khoa Học Máy Tính: Học Gì Và Làm Gì?</span></a></span></p>]]></description>
+		
+					<wfw:commentRss>https://vinhphu0812.github.io/mywordpress/101-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
