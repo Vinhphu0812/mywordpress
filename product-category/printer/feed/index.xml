@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Printer &#8211; Phú Blogs</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/printer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Sun, 26 Sep 2021 13:13:03 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://vinhphu0812.github.io/mywordpress/wp-content/uploads/2021/09/itc.jpg</url>
+	<title>Printer &#8211; Phú Blogs</title>
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Máy in phun màu BROTHER DCP-T310</title>
+		<link>https://vinhphu0812.github.io/mywordpress/product/may-in-phun-mau-brother-dcp-t310/</link>
+					<comments>https://vinhphu0812.github.io/mywordpress/product/may-in-phun-mau-brother-dcp-t310/#respond</comments>
+		
+		<dc:creator><![CDATA[truongvinhphu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 13:13:01 +0000</pubDate>
+				<guid isPermaLink="false">https://vinhphu0812.github.io/mywordpress/?post_type=product&#038;p=224</guid>
+
+					<description><![CDATA[&#8211; Máy In phun màu &#8211; Độ phân giải: 1200&#215;6000 dpi (Windows Only) &#8211; 1200&#215;3000 dpi (Mac) &#8211; Tốc độ in trắng đen: 12 trang/phút, Tốc độ in màu: 6 trang/phút &#8211; Bộ nhớ: 128 MB, Kết nối: USB 2.0 &#8211; Độ phân giải bản sao: 1200&#215;600 dpi &#8211; Bản sao/tối đa: 99 trang]]></description>
+		
+					<wfw:commentRss>https://vinhphu0812.github.io/mywordpress/product/may-in-phun-mau-brother-dcp-t310/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

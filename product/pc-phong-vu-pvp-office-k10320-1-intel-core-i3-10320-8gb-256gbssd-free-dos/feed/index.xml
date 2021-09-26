@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: PC Phong Vũ PVP Office K10320-1 Intel Core i3-10320/8GB/256GBSSD/Free DOS/	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/pc-phong-vu-pvp-office-k10320-1-intel-core-i3-10320-8gb-256gbssd-free-dos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress/product/pc-phong-vu-pvp-office-k10320-1-intel-core-i3-10320-8gb-256gbssd-free-dos/</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Sun, 26 Sep 2021 13:11:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>

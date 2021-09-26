@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>apple &#8211; Phú Blogs</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/apple/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Sun, 26 Sep 2021 14:15:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://vinhphu0812.github.io/mywordpress/wp-content/uploads/2021/09/itc.jpg</url>
+	<title>apple &#8211; Phú Blogs</title>
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Điện Thoại Di Động iPhone 13</title>
+		<link>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-13/</link>
+					<comments>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-13/#respond</comments>
+		
+		<dc:creator><![CDATA[truongvinhphu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:15:23 +0000</pubDate>
+				<guid isPermaLink="false">https://vinhphu0812.github.io/mywordpress/?post_type=product&#038;p=268</guid>
+
+					<description><![CDATA[&#8211; Chính hãng, Mới 100%, Nguyên seal]]></description>
+		
+					<wfw:commentRss>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-13/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Điện Thoại Di Động iPhone 11 Pro Max</title>
+		<link>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-11-pro-max/</link>
+					<comments>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-11-pro-max/#respond</comments>
+		
+		<dc:creator><![CDATA[truongvinhphu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:09:09 +0000</pubDate>
+				<guid isPermaLink="false">https://vinhphu0812.github.io/mywordpress/?post_type=product&#038;p=263</guid>
+
+					<description><![CDATA[&#8211; Chính hãng, Mới 100%, Nguyên seal &#8211; Màn hình: 6.5&#8243; &#8211; Camera sau: 3x 12MP &#8211; Camera trước: 12MP &#8211; CPU: A13 Bionic &#8211; RAM: 4GB &#8211; Hệ điều hành: IOS]]></description>
+		
+					<wfw:commentRss>https://vinhphu0812.github.io/mywordpress/product/dien-thoai-di-dong-iphone-11-pro-max/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

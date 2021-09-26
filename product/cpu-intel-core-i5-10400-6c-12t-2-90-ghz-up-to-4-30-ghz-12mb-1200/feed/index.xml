@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: CPU INTEL Core i5-10400 (6C/12T, 2.90 GHz Up to 4.30 GHz, 12MB) &#8211; 1200	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/cpu-intel-core-i5-10400-6c-12t-2-90-ghz-up-to-4-30-ghz-12mb-1200/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress/product/cpu-intel-core-i5-10400-6c-12t-2-90-ghz-up-to-4-30-ghz-12mb-1200/</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Sun, 26 Sep 2021 13:35:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
