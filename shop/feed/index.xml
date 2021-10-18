@@ -11,12 +11,12 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Phú Blogs</title>
+	<title>Products &#8211; Phú Blogs</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vinhphu0812.github.io/mywordpress</link>
 	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
-	<lastBuildDate>Sun, 26 Sep 2021 14:15:25 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Sun, 17 Oct 2021 22:22:45 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -25,7 +25,7 @@
 
 <image>
 	<url>https://vinhphu0812.github.io/mywordpress/wp-content/uploads/2021/09/itc.jpg</url>
-	<title>Sản phẩm &#8211; Phú Blogs</title>
+	<title>Products &#8211; Phú Blogs</title>
 	<link>https://vinhphu0812.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
