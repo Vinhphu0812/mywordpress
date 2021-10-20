@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ram &#8211; Phú Blogs</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/ram/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<description>Các blogs cá nhân của Trương Vĩnh Phú</description>
+	<lastBuildDate>Tue, 19 Oct 2021 23:02:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://vinhphu0812.github.io/mywordpress/wp-content/uploads/2021/09/itc.jpg</url>
+	<title>ram &#8211; Phú Blogs</title>
+	<link>https://vinhphu0812.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RAM desktop CORSAIR Vengeance RGB Pro CMW16GX4M2C3200C16 (2x8GB) DDR4 3200MHz</title>
+		<link>https://vinhphu0812.github.io/mywordpress/product/ram-desktop-corsair-vengeance-rgb-pro-cmw16gx4m2c3200c16-2x8gb-ddr4-3200mhz/</link>
+					<comments>https://vinhphu0812.github.io/mywordpress/product/ram-desktop-corsair-vengeance-rgb-pro-cmw16gx4m2c3200c16-2x8gb-ddr4-3200mhz/#respond</comments>
+		
+		<dc:creator><![CDATA[truongvinhphu]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2021 23:02:12 +0000</pubDate>
+				<guid isPermaLink="false">https://vinhphu0812.github.io/mywordpress/?post_type=product&#038;p=584</guid>
+
+					<description><![CDATA[<p>&#8211; Dung lượng: 2 x 8GB &#8211; Thế hệ: DDR4 &#8211; Bus: 3200MHz &#8211; Cas: 16</p>
+<p>The post <a rel="nofollow" href="https://vinhphu0812.github.io/mywordpress/product/ram-desktop-corsair-vengeance-rgb-pro-cmw16gx4m2c3200c16-2x8gb-ddr4-3200mhz/">RAM desktop CORSAIR Vengeance RGB Pro CMW16GX4M2C3200C16 (2x8GB) DDR4 3200MHz</a> appeared first on <a rel="nofollow" href="https://vinhphu0812.github.io/mywordpress">Phú Blogs</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://vinhphu0812.github.io/mywordpress/product/ram-desktop-corsair-vengeance-rgb-pro-cmw16gx4m2c3200c16-2x8gb-ddr4-3200mhz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
